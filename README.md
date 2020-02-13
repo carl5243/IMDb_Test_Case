@@ -22,3 +22,9 @@ The majority for the user to visite the site is to find the interesting movie an
 # User intents query search function (IMDb_03.js)
 In this test case, we can type in the query terms in the search bar, and using the category function to test different category can correctly dispalyed the user intentions.
 Inside the code, we use "Star Wars" as serach terms, tester can chage the text and values in it, but be sure all chang should matched on the same terms.   
+
+
+# How to run the test
+1. Ensure tester installed cypress application and drop three js files into the project list.
+2. click the test case file, cypress will automatically run the test.
+3. Tester can user Visual Studio Code to open the test case for edit.
